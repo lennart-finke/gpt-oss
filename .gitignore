@@ -1,0 +1,12 @@
+data/*
+figures/*
+logs/*
+simplestories_data/*
+tokenizer/*
+.DS_Store
+.env
+
+count_token_frequencies.py
+get_simplestories_embeddings.py
+plot_frequency_vs_norm.py
+plo
